@@ -1,0 +1,11 @@
+.main_container {
+	display: flex;
+
+}
+
+.conteiner {
+	margin: 80px auto;
+	margin-left: 250px;
+	width: 100%;
+}
+

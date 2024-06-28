@@ -1,0 +1,36 @@
+.container {
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+	height: 40px;
+	top: 0;
+	display: flex;
+	align-items: center;
+	background-color: rgb(26,28,34);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.403);
+}
+.margin {
+	display: flex;
+	align-items: center;
+	gap: 15px;
+	margin: 0 20px 0 20px;
+	color: rgba(255, 255, 255, 0.813);
+}
+.icon_back {
+	color: rgba(255, 255, 255, 0.813);
+	margin-right: 10px;
+}
+
+.link {
+	padding: 5px;
+	font-size: 18px;
+	color: rgb(255, 255, 255);
+}
+.link_target {
+	padding: 5px;
+	font-size: 18px;
+	color: rgb(255, 255, 255);
+	background-color: rgb(66,144,181);
+	border-radius: 5px;
+}
+

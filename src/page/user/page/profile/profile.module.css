@@ -1,0 +1,28 @@
+
+
+.container_user {
+	padding: 15px;
+	display: flex;
+	justify-content:space-between;
+}
+
+.img_user {
+	width: 300px;
+	border-radius: 15px;
+}
+
+.li_list {
+	display: flex;
+	align-items: center;
+	margin: 35px auto;
+	font-size: 18px;
+}
+.spam_text {
+		margin-left: 35px;
+}
+
+.b_text {
+	width: 150px;
+	font-weight: 600;
+	color: rgba(84, 94, 100, 0.903);
+}

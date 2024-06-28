@@ -1,0 +1,27 @@
+.container {
+	max-width: 1400px;
+	height: 100%;
+	border-radius: 15px;
+	margin: auto;
+}
+
+.content_container {
+	padding: 0 0 10px 10px;
+	background-color: white;
+
+}
+.container_user {
+	display: flex;
+	justify-content:space-between;
+}
+
+.img_user {
+	width: 300px;
+	border-radius: 15px;
+}
+
+.name {
+	margin-bottom: 30px;
+	font-size: 32px;
+	font-weight: 500;
+}

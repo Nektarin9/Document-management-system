@@ -1,0 +1,32 @@
+.left_containet {
+	position: fixed;
+	margin: 0;
+	padding: 0;
+	height: 100vh; /* Высота экрана */
+	width: 250px;
+	padding: 20px;
+	border-right: 1px solid rgba(206, 206, 206, 0.443) ;
+	background-color: rgb(35,39,47);
+}
+.container_table {
+	margin-top: 40px;
+
+ }
+
+ .li_category {
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	color: white;
+	padding: 10px;
+	gap: 10px;
+ }
+ .li_category:hover {
+	background-color: rgba(66, 145, 181, 0.591);
+
+	border-radius: 5px;
+}
+ .li_text {
+	color: white;
+	font-size: 18px;
+ }

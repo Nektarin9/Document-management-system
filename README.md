@@ -39,3 +39,11 @@
    		Реализовать CRUD операции для всех данных <br />
    	 	Развернуть приложение на vps хостинг <br />
    		Все эти улучшения я могу реализовать, при необходимости. <br />
+	<br />
+	<br />
+	<img src="https://iimg.su/s/30/wNLPEUedoLsoX3PoAH3A0jVKimojUde93z4nGNH3.png"  /> 
+	<br />
+ 	<img src="https://iimg.su/s/30/fyWj3GQSEAo38gZFh1z88YIyByfFT4m4IEk61nev.png"  /> 
+ 	<br />
+ 	<img src="https://iimg.su/s/30/W1YvsidHF6xbGy5mls2aF8v4CNmRYSttHJgeEoqZ.png"  /> 
+	

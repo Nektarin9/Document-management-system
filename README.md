@@ -27,10 +27,10 @@
    React, react-redux, redux-thunk, react-router-dom, css modules, json-server, recharts (графики)
 
    Как запустить проект:
-   		Устанавилваем json-server: npm i -g json-server@0.17.3
-    	Устанавливаем зависимости: npm i
-    	Запускаем json-server (порт 3005): json-server --watch src/db.json --port 3005
-   		Запускаем приложение: npm start
+   1. Устанавилваем json-server: npm i -g json-server@0.17.3
+   2. Устанавливаем зависимости: npm i
+   3. Запускаем json-server (порт 3005): json-server --watch src/db.json --port 3005
+   4. Запускаем приложение: npm start
   
    Что можно улучшить:
 		Написать Backend на express.js

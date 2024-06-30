@@ -5,6 +5,7 @@ export const initialAppState = {
 	users: [],
 	user: {},
 	allUsers: [],
+	salaryAnalytics: [],
 	page: '/',
 };
 
@@ -40,6 +41,12 @@ export const appReducer = (state = initialAppState, action) => {
 			return {
 				...state,
 				user: payload,
+			};
+		}
+		case ACTION_TYPE.GET_SALARY_ANALYTICS: {
+			return {
+				...state,
+				salaryAnalytics: payload,
 			};
 		}
 		case ACTION_TYPE.USER_CLEAR: {

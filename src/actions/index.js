@@ -5,3 +5,4 @@ export * from './get-users';
 export * from './get-all-users';
 export * from './get-user';
 export * from './clear-user';
+export * from './get-salary-analytics';

@@ -3,3 +3,4 @@ export * from './select-page';
 export * from './select-users';
 export * from './select-all-users';
 export * from './select-user';
+export * from './select-salary-analytics';
